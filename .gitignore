@@ -1,0 +1,22 @@
+# Exclude everything
+*
+
+# Explicitly include the changed files
+!.editorconfig
+!.envrc
+!.gitignore
+!.shellcheckrc
+!README.md
+!default.code-workspace
+!flake.nix
+!flake.lock
+!tasks
+!.gitignore
+
+# Include RE-UE4SS Files
+!Phoenix/Binaries/Win64/Mods
+!Phoenix/Binaries/Win64/dwmapi.dll
+!Phoenix/Binaries/Win64/LICENSE
+!Phoenix/Binaries/win64/UE4SS.dll
+!Phoenix/Binaries/Win64/UE4SS-settings.ini
+!Phoenix/Content/Paks/LogicMods
