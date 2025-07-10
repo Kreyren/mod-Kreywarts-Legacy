@@ -11,6 +11,12 @@
 !flake.nix
 !flake.lock
 !tasks
+!.gitignore
 
-# Include Changes Files
-!Phoenix/Content/Paks/~mods
+# Include RE-UE4SS Files
+!Phoenix/Binaries/Win64/Mods
+!Phoenix/Binaries/Win64/dwmapi.dll
+!Phoenix/Binaries/Win64/LICENSE
+!Phoenix/Binaries/win64/UE4SS.dll
+!Phoenix/Binaries/Win64/UE4SS-settings.ini
+!Phoenix/Content/Paks/LogicMods
