@@ -1,0 +1,13 @@
+# Exclude everything
+*
+
+# Explicitly include the changed files
+!.editorconfig
+!.envrc
+!.gitignore
+!.shellcheckrc
+!README.md
+!default.code-workspace
+!flake.nix
+!flake.lock
+!tasks
