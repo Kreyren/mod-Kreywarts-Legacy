@@ -11,3 +11,6 @@
 !flake.nix
 !flake.lock
 !tasks
+
+# Include Changes Files
+!Phoenix/Content/Paks/~mods
